@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T09:22:32.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Ju7oPHhfS-egcvOVTiB4" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T09:26:10.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ITM232sGWz_kimBXipUp" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="2" y="80" width="145" height="26" as="geometry" />
         </mxCell>
         <mxCell id="TGyUULLUcQQw1tGc5YkL-16" value="RECUITER" style="swimlane;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="541" y="172" width="183" height="171" as="geometry" />
+          <mxGeometry x="539" y="174" width="183" height="171" as="geometry" />
         </mxCell>
         <mxCell id="t_f-YzOvAQu2uqTnWcZu-0" value="Profile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TGyUULLUcQQw1tGc5YkL-16">
           <mxGeometry x="22" y="32" width="52" height="26" as="geometry" />
@@ -69,6 +69,15 @@
         </mxCell>
         <mxCell id="TGyUULLUcQQw1tGc5YkL-17" value="EMPLOYEE" style="swimlane;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="541" y="399" width="183" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="t_f-YzOvAQu2uqTnWcZu-5" value="Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TGyUULLUcQQw1tGc5YkL-17">
+          <mxGeometry x="15" y="69" width="77" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="t_f-YzOvAQu2uqTnWcZu-3" value="Profile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TGyUULLUcQQw1tGc5YkL-17">
+          <mxGeometry x="19" y="36" width="52" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="t_f-YzOvAQu2uqTnWcZu-6" value="Notification Center" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TGyUULLUcQQw1tGc5YkL-17">
+          <mxGeometry x="15" y="101" width="117" height="26" as="geometry" />
         </mxCell>
         <mxCell id="TGyUULLUcQQw1tGc5YkL-21" value="JOBS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="172" width="215" height="120" as="geometry" />
