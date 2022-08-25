@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T09:15:38.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1w42MxhAg9KNVW9Nt8wW" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T09:16:49.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="plMtV6WLSbpht-FKW65v" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,12 @@
         </mxCell>
         <mxCell id="TGyUULLUcQQw1tGc5YkL-9" value="SIGNUP" style="swimlane;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="312" y="317" width="149" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="aCniQN3QKN2nMsdBsUbV-5" value="Signup as a Recruiter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TGyUULLUcQQw1tGc5YkL-9">
+          <mxGeometry x="4" y="32" width="133" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aCniQN3QKN2nMsdBsUbV-6" value="Signup as an Employee" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TGyUULLUcQQw1tGc5YkL-9">
+          <mxGeometry x="2" y="58" width="145" height="26" as="geometry" />
         </mxCell>
         <mxCell id="aCniQN3QKN2nMsdBsUbV-3" value="Login as a Recruiter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="128" width="125" height="26" as="geometry" />
