@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T09:16:58.209Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="C7AMFH3X2Aa1Q-SI_kOx" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T09:17:20.902Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="uDMSh9Lt2wJJWxsiflGz" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="805" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -32,7 +32,10 @@
           <mxGeometry x="323" y="354" width="149" height="138" as="geometry" />
         </mxCell>
         <mxCell id="aCniQN3QKN2nMsdBsUbV-4" value="Login as an Employee" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TGyUULLUcQQw1tGc5YkL-8">
-          <mxGeometry x="-2" y="48" width="137" height="26" as="geometry" />
+          <mxGeometry x="6" y="78" width="137" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aCniQN3QKN2nMsdBsUbV-3" value="Login as a Recruiter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TGyUULLUcQQw1tGc5YkL-8">
+          <mxGeometry x="12" y="39" width="125" height="26" as="geometry" />
         </mxCell>
         <mxCell id="TGyUULLUcQQw1tGc5YkL-9" value="SIGNUP" style="swimlane;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="335.5" y="778" width="149" height="138" as="geometry" />
@@ -45,9 +48,6 @@
         </mxCell>
         <mxCell id="TGyUULLUcQQw1tGc5YkL-16" value="Vertical Container" style="swimlane;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="541" y="42" width="183" height="171" as="geometry" />
-        </mxCell>
-        <mxCell id="aCniQN3QKN2nMsdBsUbV-3" value="Login as a Recruiter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="128" width="125" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
